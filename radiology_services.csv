@@ -1,0 +1,180 @@
+﻿service_code,name,type,modality
+000000000000002035,Radioloogia,protseduur,radioloogia
+000000000000006003,Pindmiste Kudede Ultraheliuuring,uuring,ultraheli
+000000000000006004,Silma ultraheliuuring,uuring,ultraheli
+000000000000006005,Ultraheli Doppleri Uuring Kõhukoopast,uuring,ultraheli
+000000000000006006,Ultraheli Doppleri Uuring Veresoontele,uuring,ultraheli
+000000000000006007,Ultraheliuuring Koos Punktsiooniga,uuring,ultraheli
+000000000000006008,Ultraheli Abil Tehtav Transkutaanne Dren,uuring,ultraheli
+000000000000006009,Rinnanäärme Ultraheliuuring,uuring,ultraheli
+000000000000006010,Vaagnapiirkonna Ultraheliuuring Naistel,uuring,ultraheli
+000000000000006012,Kilpnäärme Ultraheliuuring,uuring,ultraheli
+000000000000006013,Aju Ultraheliuuring,uuring,ultraheli
+000000000000006014,Mittetransporditava Haige Ultraheliuurin,uuring,ultraheli
+000000000000006015,Vaginaalne Ultraheliuuring Emakaõõne Kon,uuring,ultraheli
+000000000000006016,Vaginaalne Ultraheliuuring Emakaõõne Ja,uuring,ultraheli
+000000000000006051,Röntgenoskoopia Abil Tehtavad Transkutaa,uuring,röntgen
+000000000000006052,Röntgeni Abil Tehtav Punktsioon Või Süst,uuring,röntgen
+000000000000006053,Mrt Uuringul Kasutatava Kontrastaine Üks,uuring,magnetresonantstomograafia
+000000000000006054,Nõrga Väljaga Mrt-Uuring Ühest Piirkonnast,uuring,magnetresonantstomograafia
+000000000000006055,Tugeva Väljaga Mrt-Uuring Ühest Piirkonn,uuring,magnetresonantstomograafia
+000000000000006056,Kompuutertomograafia (Pea Uuring),uuring,kompuutertomograafia
+000000000000006057,Kompuutertomograafia (Üks Piirkond),uuring,kompuutertomograafia
+000000000000006058,Kompuutertomograafia (Kaks Piirkonda),uuring,kompuutertomograafia
+000000000000006061,Kolju Röntgenograafia (Üks Film),uuring,röntgen
+000000000000006062,Kolju Röntgenograafia (Kaks Filmi),uuring,röntgen
+000000000000006063,Lülisamba Kaelaosa Röntgenograafia (Kaks,uuring,röntgen
+000000000000006064,Rinna- Või Nimmelülide Röntgenograafia (,uuring,röntgen
+000000000000006065,Jäsemete, Luude Ja Liigeste Röntgenograa,uuring,röntgen
+000000000000006066,Jäsemete, Luude Ja Liigeste Röntgenograa,uuring,röntgen
+000000000000006070,Kopsude Röntgenoskoopia,uuring,röntgen
+000000000000006071,Kuseteede Röntgenoskoopia,uuring,röntgen
+000000000000006072,Skeleti Röntgenoskoopia,uuring,röntgen
+000000000000006075,Südame Röntgenograafia,uuring,röntgen
+000000000000006077,Neelu Ja Suuõõne Kontraströntgenograafia,uuring,röntgen
+000000000000006086,Kõhukoopa Ülevaatlik Röntgenograafia,uuring,röntgen
+000000000000006095,Mittetransporditava Haige Röntgeniülesvõ,uuring,röntgen
+000000000000006099,Tomograafia,uuring,kompuutertomograafia
+000000000000006100,Tomograafia,uuring,kompuutertomograafia
+000000000000006101,Tomograafia,uuring,kompuutertomograafia
+000000000000006120,Kompuutertomograafia (Pea Uuring) Kontra,uuring,kompuutertomograafia
+000000000000006121,Kompuutertomograafia (Üks Piirkond) Kont,uuring,kompuutertomograafia
+000000000000006122,Kompuutertomograafia (Kaks Piirkonda) Ko,uuring,kompuutertomograafia
+000000000000006165,Radiorenograafia,uuring,radioloogia
+000000000000006180,Peaaju emissioontomograafia HMPAO-ga,uuring,kompuutertomograafia
+000000000000006181,Peaaju serotoniini, dopamiini, bensodiasepiini retseptorite emissioontomograafia,uuring,kompuutertomograafia
+00000000000000708O,Endoskoopiline ultraheli uuring, lühike ravi,uuring,ultraheli
+000000000000007172,Nefrostoomi paigaldamine ultraheli ja/või röntgenoskoopia kontrolli all,protseduur,ultraheli
+000000000000007172,Nefrostoomi paigaldamine ultraheli ja/või röntgenoskoopia kontrolli all,protseduur,röntgen
+000000000000007268,Silmapõhja optiline koherentne tomograafia,uuring,kompuutertomograafia
+000000000000007269,Silma eesosa optiline koherentne tomograafia,uuring,kompuutertomograafia
+000000000000007406,Röntgeniravi,uuring,röntgen
+000000000000007555,Bronhoskoopia ultraheliendoskoobiga, v.a ultrahelisondiga,uuring,ultraheli
+000000000000007568,Seedetrakti ülaosa endoskoopia ultraheliendoskoobiga, v.a ultrahelisondiga,uuring,ultraheli
+000000000000007586,Ultrahelisondi kasutamine endoskoopias,uuring,ultraheli
+000000000000007728,Vere Ultraviolettkiiritus,uuring,ultraheli
+000000000000007809,Neeru ja maksa primaarsete ja sekundaarsete tuumorite raadiosageduslik ablatsioon ultraheli kontrolli all,protseduur,ultraheli
+000000000000007810,Neeru ja maksa primaarsete ja sekundaarsete tuumorite raadiosageduslik ablatsioon kontrastainega ultraheli kontrolli all,protseduur,ultraheli
+000000000000007890,Peennõelabiopsia või punktsioon ultraheli või röntgeni kontrolli all,protseduur,röntgen
+000000000000007890,Peennõelabiopsia või punktsioon ultraheli või röntgeni kontrolli all,protseduur,ultraheli
+000000000000007891,Jämenõelabiopsia või punktsioon ultraheli või röntgeni kontrolli all,protseduur,ultraheli
+000000000000007891,Jämenõelabiopsia või punktsioon ultraheli või röntgeni kontrolli all,protseduur,röntgen
+000000000000007892,Ühemomentse dreeni paigaldamine ultraheli või röntgeni kontrolli all,protseduur,röntgen
+000000000000007892,Ühemomentse dreeni paigaldamine ultraheli või röntgeni kontrolli all,protseduur,ultraheli
+000000000000007893,Kahe- või kolmemomentse dreeni paigaldamine ultraheli või röntgeni kontrolli all,protseduur,röntgen
+000000000000007893,Kahe- või kolmemomentse dreeni paigaldamine ultraheli või röntgeni kontrolli all,protseduur,ultraheli
+000000000000007894,Pleura punktsioon ultraheli või röntgeni kontrolli all,protseduur,ultraheli
+000000000000007894,Pleura punktsioon ultraheli või röntgeni kontrolli all,protseduur,röntgen
+000000000000007900,Röntgeniülesvõte peapiirkonnast (üks ülesvõte),uuring,röntgen
+000000000000007901,Röntgeniülesvõte peapiirkonnast (kaks ülesvõtet),uuring,röntgen
+000000000000007902,Röntgeniülesvõte peapiirkonnast (kolm või enam ülesvõtet),uuring,röntgen
+000000000000007903,Röntgeniülesvõte rindkere piirkonnast (üks ülesvõte),uuring,röntgen
+000000000000007904,Röntgeniülesvõte rindkere piirkonnast (kaks ülesvõtet),uuring,röntgen
+000000000000007905,Röntgeniülesvõte rindkere piirkonnast (kolm või enam ülesvõtet),uuring,röntgen
+000000000000007906,Röntgeniülesvõte lülisamba piirkonnast (üks ülesvõte),uuring,röntgen
+000000000000007907,Röntgeniülesvõte lülisamba piirkonnast (kaks ülesvõtet),uuring,röntgen
+000000000000007908,Röntgeniülesvõte lülisamba piirkonnast (iga järgmine ülesvõte),uuring,röntgen
+000000000000007909,Röntgeniülesvõte kõhupiirkonnast (üks ülesvõte),uuring,röntgen
+000000000000007910,Röntgeniülesvõte kõhupiirkonnast (kaks ülesvõtet),uuring,röntgen
+000000000000007911,Röntgeniülesvõte kõhupiirkonnast (kolm või enam ülesvõtet),uuring,röntgen
+000000000000007912,Röntgeniülesvõte vaagnapiirkonnast (üks ülesvõte),uuring,röntgen
+000000000000007913,Röntgeniülesvõte vaagnapiirkonnast (kaks ülesvõtet),uuring,röntgen
+000000000000007914,Röntgeniülesvõte vaagnapiirkonnast (kolm või enam ülesvõtet),uuring,röntgen
+000000000000007915,Röntgeniülesvõte ülajäsemetest ja/või liigestest (üks ülesvõte),uuring,röntgen
+000000000000007916,Röntgeniülesvõte ülajäsemetest (kaks ülesvõtet),uuring,röntgen
+000000000000007917,Röntgeniülesvõte ülajäsemetest (iga järgmine ülesvõte),uuring,röntgen
+000000000000007918,Röntgeniülesvõte alajäsemetest (üks ülesvõte),uuring,röntgen
+000000000000007919,Röntgeniülesvõte alajäsemetest (kaks ülesvõtet),uuring,röntgen
+000000000000007920,Röntgeniülesvõte alajäsemetest (iga järgmine ülesvõte),uuring,röntgen
+000000000000007922,Ortopantomograafia (üks ülesvõte),uuring,kompuutertomograafia
+000000000000007923,Mittetransporditava haige röntgeniülesvõte väljaspool röntgenikabinetti (üks ülesvõte),uuring,röntgen
+000000000000007924,Mittetransporditava haige iga järgnev röntgeniülesvõte väljaspool röntgenikabinetti,uuring,röntgen
+000000000000007925,Mittetransporditava haige röntgeniülesvõte väljaspool röntgenikabinetti täisdigitaalsel seadmel (üks ülesvõte),uuring,röntgen
+000000000000007929,Vastsündinu röntgeniülesvõte (üks ülesvõte),uuring,röntgen
+000000000000007930,Jäseme ülesvõte telje mõõtmiseks või täispikkuses lülisamba röntgeniülesvõte,uuring,röntgen
+000000000000007932,Röntgenoskoopia (üks piirkond),uuring,röntgen
+000000000000007933,Söögitoru ja mao või peensoole kaksikkontrasteerimine röntgenoskoopial,uuring,röntgen
+000000000000007934,Röntgenoskoopia kontrastainega, sh fistulograafia (üks piirkond),uuring,röntgen
+000000000000007940,Lapse aju ultraheliuuring,uuring,ultraheli
+000000000000007941,Ühe piirkonna arterite ultraheliuuring,uuring,ultraheli
+000000000000007942,Ühe piirkonna veenide ultraheliuuring,uuring,ultraheli
+000000000000007943,Ühe piirkonna arterite ja veenide ultraheliuuring,uuring,ultraheli
+000000000000007946,Ühe piirkonna liigese/liigeste ultraheliuuring,uuring,ultraheli
+000000000000007947,Raseduse ultraheliuuring,uuring,ultraheli
+000000000000007948,Pehmete kudede ultraheliuuring (üks piirkond),uuring,ultraheli
+000000000000007950,Kilpnäärme ultraheliuuring,uuring,ultraheli
+000000000000007952,Rinnanäärme ultraheliuuring (üks rind),uuring,ultraheli
+000000000000007953,Kõhu- ja vaagnapiirkonna ultraheliuuring,uuring,ultraheli
+000000000000007954,Vaginaalne ultraheliuuring,uuring,ultraheli
+000000000000007956,Kõhupiirkonna ultraheliuuring,uuring,ultraheli
+000000000000007958,Vaagnapiirkonna ultraheliuuring,uuring,ultraheli
+000000000000007960,Rektaalne ultraheliuuring,uuring,ultraheli
+000000000000007961,Emaka ultraheliuuring kontrastainega,uuring,ultraheli
+000000000000007962,Emaka ja munajuhade ultraheliuuring kontrastainega,uuring,ultraheli
+000000000000007963,Residuaaluriini määramine ultraheliga,uuring,ultraheli
+000000000000007964,Kusepõie refluksi ultraheliuuring,uuring,ultraheli
+000000000000007966,Maksa ultraheliuuring kontrastainega,uuring,ultraheli
+000000000000007967,Mittetransporditava haige ultraheliuuring väljaspool ultraheli kabinetti,uuring,ultraheli
+000000000000007968,Mittetransporditava haige iga järgnev ultraheliuuring väljaspool ultraheli kabinetti,uuring,ultraheli
+000000000000007969,Loote ultraheliuuring dopleriga,uuring,ultraheli
+000000000000007972,Südame kompuutertomograafia,uuring,kompuutertomograafia
+000000000000007973,Südame kompuutertomograafia kontrastainega,uuring,kompuutertomograafia
+000000000000007974,Perfusioonkompuutertomograafia,uuring,kompuutertomograafia
+000000000000007975,Kompuutertomograafia natiivis,uuring,kompuutertomograafia
+000000000000007976,Kompuutertomograafia natiivis (iga järgmine piirkond),uuring,kompuutertomograafia
+000000000000007978,Kompuutertomograafia kontrastainega,uuring,kompuutertomograafia
+000000000000007979,Kompuutertomograafia kontrastainega (iga järgmine piirkond),uuring,kompuutertomograafia
+000000000000007984,Kompuutertomograafia-angiograafia,uuring,kompuutertomograafia
+000000000000007990,Peaaju kompuutertomograafia natiivis,uuring,kompuutertomograafia
+000000000000007991,Peaaju kompuutertomograafia kontrastainega,uuring,kompuutertomograafia
+000000000000007995,Kompuutertomograafia-kolonoskoopia,uuring,kompuutertomograafia
+000000000000007997,Kompuutertomograafia kontrastaine 10 ml,uuring,kompuutertomograafia
+000000000000007998,Mittetransporditava haige iga järgnev röntgeniülesvõte väljaspool röntgenikabinetti täisdigitaalsel seadmel,uuring,röntgen
+000000000000007999,Kompuutertomograafia-angiograafia (iga järgmine piirkond),uuring,kompuutertomograafia
+000000000000011003,Ninakarbiku ultraheli- või laserkoagulatsioon,protseduur,ultraheli
+000000000000052407,3D koonuskiir kompuutertomogramm näo-lõualuu piirkonnast,uuring,kompuutertomograafia
+000000000000052604,Hambumuse analüüs ja mõõdistamine röntgeniülesvõtetel,uuring,röntgen
+000000000000079200,Ühe mähisega uuring (kuni 3 tööd) keskmise väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079201,Ühe mähisega uuring (4-5 tööd) keskmise väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079202,Ühe mähisega uuring (6-7 tööd) keskmise väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079203,Ühe mähisega uuring (8 ja enam tööd) keskmise väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079224,Magnet-angiograafia ühest piirkonnast keskmise väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079227,Endokavitaalne uuring keskmise väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079228,Aju funktsionaalne uuring keskmise väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079229,Loote uuring keskmise väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079250,Ühe mähisega uuring (kuni 3 tööd) tugeva väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079251,Ühe mähisega uuring (4-5 tööd) tugeva väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079252,Ühe mähisega uuring (6-7 tööd) tugeva väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079253,Ühe mähisega uuring (8 ja enam tööd) tugeva väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079274,Magnet-angiograafia ühest piirkonnast tugeva väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079277,Endokavitaalne uuring tugeva väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079278,Aju funktsionaalne uuring tugeva väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079300,Ühe mähisega uuring (alla 4 töö) nõrga väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079301,Ühe mähisega uuring (4-5 tööd) nõrga väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079302,Ühe mähisega uuring (6-7 tööd) nõrga väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079303,Ühe mähisega uuring (8 ja enam tööd) nõrga väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079330,Kontrastainega MRT uuring,uuring,magnetresonantstomograafia
+000000000000079333,Südame uuring keskmise väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079334,Südame uuring tugeva väljaga MRT-l,uuring,magnetresonantstomograafia
+000000000000079335,Traktograafia magnetresonantstomograafil,uuring,magnetresonantstomograafia
+000000000000079336,Aju perfusiooniuuring magnetresonantstomograafil,uuring,magnetresonantstomograafia
+000000000000079337,Spektroskoopia magnetresonantstomograafil,uuring,magnetresonantstomograafia
+000000000000079416,Radiorenograafia,uuring,radioloogia
+000000000000006074,Mammograafia, üks rinnanääre kahes sihis,uuring,röntgen
+000000000000006131,Mammograafi Abil Tehtav Lokaliseerimine,uuring,röntgen
+000000000000007895,Mammograafi kontrolli all tehtav lokalisatsioon,protseduur,röntgen
+000000000000006001,Sonograafiline Uuring,uuring,ultraheli
+000000000000006002,Vaginaalne Või Rektaalne Sonograafia,uuring,ultraheli
+000000000000007585,Transluminaalne endoskoopiline punktsioon sonograafia nõelaga,protseduur,ultraheli
+000000000000009005,Perearst. Sonograafiline Uuring,uuring,ultraheli
+000000000000006102,Üla- Või Alajäseme Angiograafia,uuring,röntgen
+000000000000006103,Lümfangiograafia,uuring,röntgen
+000000000000006104,Selektiivne Vistseraalne Angiograafia,uuring,röntgen
+000000000000006105,Aju Angiograafia,uuring,röntgen
+000000000000006106,Kopsuarteri Angiograafia Või Selle Selek,uuring,röntgen
+000000000000006169,Nukleaarangiograafia,uuring,röntgen
+000000000000007261,Fluorestsentne angiograafia,uuring,röntgen
+000000000000007882,Superselektiivne vistseraalne angiograafia,uuring,röntgen
+000000000000007883,Aju angiograafia,uuring,röntgen
+000000000000007884,Perifeerne angiograafiline flebograafia,uuring,röntgen
+000000000000079440,Nukleaarangiograafia ja/või SPET,uuring,röntgen
